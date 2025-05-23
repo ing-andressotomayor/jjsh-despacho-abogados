@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+.navegacion-menu {
+    @apply inline underline hover:text-[#a5975a] hover:cursor-pointer hover:text-[1.8vw] text-[1.5vw] transition-all duration-500;
+}
+
+.titulo {
+    @apply lg:text-[2vw] text-black
+}
