@@ -26,7 +26,7 @@ export const MenuResponsivo = () => {
                             <div className="  h-full flex flex-col justify-evenly items-center ">
                                 <h1 style={fuente} className="text-[#a5975a] text-center text-2xl animate__animated animate__backInLeft ">Despacho Juridico de Abogados</h1>
                                 <h3 style={fuente} className="  w-[90vw] text-base sm:text-xl md:text-2xl text-center text-white">"Comprometidos con la justicia, guiamos tu camino legal con integridad y experiencia."</h3>
-                                <button style={fuente} className="w-[60%]  p-[3vw] border-[1px] text-white text-[2.5vw] hover:cursor-pointer  ">Asesoria sin costo</button>
+                                <button style={fuente} className="w-[60%]  p-[3vw] border-[1px] text-white lg:text-[1vw] hover:cursor-pointer  ">Asesoria sin costo</button>
                             </div>
                         )
                     else {

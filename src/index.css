@@ -6,5 +6,5 @@
 }
 
 .titulo {
-    @apply lg:text-[2vw] text-black
+    @apply lg:text-[2vw] text-black;
 }
